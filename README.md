@@ -1,4 +1,4 @@
-# Learn_Data_Science_in_3_Months
+# Learn_Data_Science_in_4_Months
 
 #### Course Objective
 
@@ -25,20 +25,15 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 
 # Month 1 - Data Analysis
 
-## Week 1 - Learn Python
-- EdX https://www.edx.org/course/introduction-python-data-science-2
-- Siraj Raval https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU 
-
-## Week 2 - Statistics & Probability
+## Week 1 - Statistics & Probability
 - KhanAcademy https://www.khanacademy.org/math/statistics-probability
 
-## Week 3 Data Pre-processing, Data Visualization, Exploratory Data Analysis
+## Week 2 Data Pre-processing, Data Visualization, Exploratory Data Analysis
 - EdX https://www.edx.org/course/introduction-to-computing-for-data-analysis
 
-## Week 4 Kaggle Project #1
+## Week 3 - Kaggle Project #1
 - Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
 - Use [Kaggle Learn](https://www.kaggle.com/learn/overview) as a helpful guide
-
 
 # Month 2 - Machine Learning
 
@@ -71,5 +66,18 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 ## Week 3 Data Storytelling
 - Edx https://www.edx.org/course/analytics-storytelling-impact-1
 
-## Week 4 Kaggle Project #3
+## Week 4 - Kaggle Project #3
 - Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
+
+# Month 4 - Earth Data Analytics
+
+## Week 1 - Python for EDA
+- Uni of Colorado Boulder https://www.earthdatascience.org
+
+## Week 2 - Bootcamp course for EDA
+- Uni of Colorado Boulder https://www.earthdatascience.org
+
+## Week 3 - R for EDA
+- Uni of Colorado Boulder https://www.earthdatascience.org
+
+## Week 4 - Kaggle Project #4
